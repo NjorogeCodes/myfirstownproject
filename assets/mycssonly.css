@@ -1,0 +1,40 @@
+<!--h1{
+    color: #997404;
+    font-family: Arial;
+    font-size: medium;
+
+}
+h2{
+    ;
+
+
+}
+p1{
+    color:chocolate;
+    font-family: Calibri;
+    font-size: medium;
+}
+p2{ color:chocolate;
+    font-family: Calibri;
+    font-size: medium;-->
+
+}body{
+    font-family: Arial sans-serif;
+    background-color:green;
+    text-align: center;
+    padding: 20px;
+}
+H1{
+    color: green;
+    font-size: 20px;
+    font-family: Elephant;
+
+}
+button{
+    background-color: white;
+    color: blueviolet;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
